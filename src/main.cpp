@@ -7,6 +7,7 @@
 // Display OLED
 #include <Adafruit_SSD1306.h>
 
+//Oled IO
 //GPIO OLED
 //VIN	3.3V
 //GND	GND
