@@ -1,0 +1,45 @@
+{
+	"folders": [
+		{
+			"name": "230327-101028-nodemcuv2",
+			"path": "../../230327-101028-nodemcuv2"
+		},
+		{
+			"name": "NovoWEBRadio",
+			"path": "../../NovoWEBRadio"
+		},
+		{
+			"name": "WEBRadio_teste",
+			"path": "../../WEBRadio_teste"
+		},
+		{
+			"name": "ESP32_WEBRadio_CaptivePortal",
+			"path": "../../ESP32_WEBRadio_CaptivePortal"
+		},
+		{
+			"name": "SRBV_StreamRadio",
+			"path": "../../SRBV_StreamRadio"
+		},
+		{
+			"name": "ESP32-Audio-Kit",
+			"path": "../../ESP32-Audio-Kit"
+		},
+		{
+			"name": "WEBRadio_ESP32-vs1053_ext",
+			"path": ".."
+		},
+		{
+			"name": "ESP32S3_RadioWeb",
+			"path": "../../ESP32S3_RadioWeb"
+		},
+		{
+			"name": "projetodefault",
+			"path": "../../projetodefault"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp"
+		}
+	}
+}
